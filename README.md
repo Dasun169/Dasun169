@@ -13,6 +13,23 @@
 
 ---
 
+<h3 align="center">🏆 GitHub Level Ups</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dasun169&theme=gruvbox&margin-w=15&no-frame=true" alt="Dasun169 trophies" />
+</p>
+
+---
+
+<h3 align="center">📈 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dasun169&show_icons=true&locale=en&theme=dark" alt="Dasun169 stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dasun169&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
+---
+
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/dasun navindu" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -37,23 +54,6 @@
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/></a>
-</p>
-
----
-
-<h3 align="center">🏆 GitHub Level Ups</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dasun169&theme=gruvbox&margin-w=15&no-frame=true" alt="Dasun169 trophies" />
-</p>
-
----
-
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dasun169&show_icons=true&locale=en&theme=dark" alt="Dasun169 stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dasun169&layout=compact&theme=dark" alt="Top Langs" />
 </p>
 
 ---
