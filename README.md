@@ -84,7 +84,7 @@
 
 <h3 align="center">📌 Recent GitHub Activity</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dasun169&theme=github-compact&hide_border=true" alt="GitHub Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dasun169&theme=github-compact&hide_border=true" alt="GitHub Activity" />
 </p>
 
 ---
