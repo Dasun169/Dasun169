@@ -1,6 +1,7 @@
-<h1 align="center">
-  Hi <span class="wave">👋</span>, I'm Dasun Navindu
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Dasun+Navindu;Full+Stack+Developer;Tech+Enthusiast+%F0%9F%92%BB;Passionate+Problem+Solver" alt="Typing SVG" />
+</p>
+
 <h3 align="center">🚀 A passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
