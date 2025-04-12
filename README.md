@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dasun Navindu</h1>
+<h1 align="center">
+  Hi <span class="wave">👋</span>, I'm Dasun Navindu
+</h1>
 <h3 align="center">🚀 A passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
