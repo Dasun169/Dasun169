@@ -102,5 +102,3 @@
 </p>
 
 ---
-
-✨ _Powered by [GitHub Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) & widgets from [anuraghazra](https://github.com/anuraghazra), [DenverCoder1](https://github.com/DenverCoder1), and others._
